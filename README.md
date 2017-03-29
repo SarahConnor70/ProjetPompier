@@ -2,7 +2,7 @@
 
 `$ php -S 0.0.0.0:8888 -t public public/index.php`
 
-## Key directories
+# Key directories
 
 * `app`: Application code
 * `app/src`: All class files within the `App` namespace
@@ -12,7 +12,7 @@
 * `public`: Webserver root
 * `vendor`: Composer dependencies
 
-## Key files
+# Key files
 
 * `public/index.php`: Entry point to application
 * `app/settings.php`: Configuration
